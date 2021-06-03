@@ -1,0 +1,17 @@
+
+#imgg{
+    width: 100px;
+    height: 100px;
+}
+
+.info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    -webkit-box-shadow:0px 0px 89px 2px #d1d0fb ;
+    -moz-box-shadow:0px 0px 89px 2px #d1d0fb ;
+    box-shadow:0px 0px 89px 2px #d1d0fb ;
+}
